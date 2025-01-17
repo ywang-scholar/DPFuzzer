@@ -2,7 +2,7 @@
 
 - `Ubuntu 20.04` is recommended
 
-- Install `Ego-Planner` following the instructions and make sure it is installed in your **home** directory `(i.e., /home/<your-username>/ego-planner)`: &emsp;<https://github.com/ZJU-FAST-Lab/ego-planner/tree/master>
+- Install `Ego-Planner` following the instructions (&emsp;<https://github.com/ZJU-FAST-Lab/ego-planner/tree/master>) and make sure it is installed in your **home** directory `(i.e., /home/<your-username>/ego-planner)`
 
 - Execute the official example to ensure `Ego-Planner` is correctly installed.
 
